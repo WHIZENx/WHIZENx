@@ -6,14 +6,14 @@ University: Computer Science Chiang Mai University 💜✨
 ```
 - 🌱 I’m currently learning
 > 1. Java for develope Android Application
-> 2. Typescript (Angular) for Web Application
+> 2. Typescript (Vue.js <code><img height="20" src="https://miro.medium.com/max/400/1*wqYF-8Dmh7LhtLkKfERc3Q.png"></code>) for Web Application
 
 **Computer languages and Tools:**  
 
 <code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/java-23-225999.png"></code>
 <code><img height="20" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://iconape.com/wp-content/files/vp/196729/svg/196729.svg"></code>
+<code><img height="20" src="https://www.howtoautomate.in.th/wp-content/uploads/2019/04/ts.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -21,6 +21,12 @@ University: Computer Science Chiang Mai University 💜✨
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+**Frameworks:**
+
+<code><img height="20" src="https://iconape.com/wp-content/files/vp/196729/svg/196729.svg"></code>
+<code><img height="20" src="https://img.icons8.com/color/452/bootstrap.png"></code>
+<code><img height="20" src="https://icon-library.com/images/jquery-icon-png/jquery-icon-png-7.jpg"></code>
 
 <!--
 **WHIZENx/WHIZENx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
