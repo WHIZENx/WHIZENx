@@ -5,8 +5,7 @@ Name: White 😊
 University: Computer Science Chiang Mai University 💜✨
 ```
 - 🌱 I’m currently learning
-> 1. Java for develope Android Application
-> 2. Typescript (Vue.js <code><img height="20" src="https://miro.medium.com/max/400/1*wqYF-8Dmh7LhtLkKfERc3Q.png"></code>) for Web Application
+> Typescript (Vue.js <code><img height="20" src="https://miro.medium.com/max/400/1*wqYF-8Dmh7LhtLkKfERc3Q.png"></code>) for Web Application
 
 **Computer languages and Tools:**  
 
