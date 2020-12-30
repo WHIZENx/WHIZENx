@@ -6,6 +6,7 @@ University: Computer Science Chiang Mai University 💜✨
 ```
 - 🌱 I’m currently learning
 > __Typescript__ (Vue.js <code><img height="20" src="https://miro.medium.com/max/400/1*wqYF-8Dmh7LhtLkKfERc3Q.png"></code>) for Web Application
+
 > __PHP__ for Web Project
 
 **Computer languages and Tools:**  
