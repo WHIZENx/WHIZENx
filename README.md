@@ -20,7 +20,7 @@ University: Computer Science Chiang Mai University 💜✨
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://4.bp.blogspot.com/-BD3ZGiGy9Ms/WuJdYMbSh3I/AAAAAAACPrc/jePCk-BAX_g3_BED91p_zFgqDBJ4lR_JQCLcBGAs/s1600/jupyter.png"></code>
+<code><img height="20" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/julia-icon.png"></code>
 
 **Editor:**
 
