@@ -35,6 +35,10 @@ University: Computer Science Chiang Mai University 💜✨
 <code><img height="20" src="https://img.icons8.com/color/452/bootstrap.png"></code>
 <code><img height="20" src="https://icon-library.com/images/jquery-icon-png/jquery-icon-png-7.jpg"></code>
 
+**Other web application projects:**
+
+> Stackblitz <code><img height="20" src="https://pbs.twimg.com/profile_images/1055142255722344448/xhqy_EUP_400x400.jpg"></code> : <a href="https://stackblitz.com/@WHIZENx">WHIZENx</a>
+
 <!--
 **WHIZENx/WHIZENx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
