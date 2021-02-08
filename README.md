@@ -5,9 +5,9 @@ Name: White 😊
 University: Computer Science Chiang Mai University 💜✨
 ```
 - 🌱 I’m currently learning
-> __Typescript__ (Vue.js <code><img height="20" src="https://miro.medium.com/max/400/1*wqYF-8Dmh7LhtLkKfERc3Q.png"></code>) for Web Application
+> __<a style="color:#f18e33">Kotlin</a>__ <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin-logo.svg/1200px-Kotlin-logo.svg.png"></code> for Android Application
 
-> __PHP__ for Web Project
+> __PHP__ (OOP) <code><img height="20" src="https://image.flaticon.com/icons/png/512/919/919830.png"></code> for Web Project
 
 **Computer languages and Tools:**  
 
