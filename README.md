@@ -6,7 +6,7 @@ University: Computer Science Chiang Mai University 💜✨
 ```
 
 - 🌱 I’m currently learning
-> __Kotlin__ <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin-logo.svg/1200px-Kotlin-logo.svg.png"></code> for Android Application
+> __Kotlin__ <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/768px-Kotlin_Icon.svg.png"></code> for Android Application
 
 > __PHP__ (OOP) <code><img height="20" src="https://image.flaticon.com/icons/png/512/919/919830.png"></code> for Web Project
 
