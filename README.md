@@ -6,7 +6,7 @@ University: Computer Science Chiang Mai University 💜✨
 ```
 
 - 🌱 I’m currently learning
-- -
+- > <code><img height="20" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png"></code> Docker container, image
 
 **Computer languages and Tools: (Student Level)**
 
