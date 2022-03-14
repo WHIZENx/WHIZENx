@@ -5,7 +5,7 @@ Name: White 😊
 University: Computer Science Chiang Mai University 💜✨
 ```
 
-- 🌱 I’m currently learning
+<!-- - 🌱 I’m currently learning
 - > <code><img height="20" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png"></code> Docker container, image
 
 **Computer languages and Tools: (Student Level)**
@@ -34,7 +34,7 @@ University: Computer Science Chiang Mai University 💜✨
 
 <code><img height="20" src="https://iconape.com/wp-content/files/vp/196729/svg/196729.svg"></code>
 <code><img height="20" src="https://img.icons8.com/color/452/bootstrap.png"></code>
-<code><img height="20" src="https://icon-library.com/images/jquery-icon-png/jquery-icon-png-7.jpg"></code>
+<code><img height="20" src="https://icon-library.com/images/jquery-icon-png/jquery-icon-png-7.jpg"></code> -->
 
 **Other web application projects:**
 
